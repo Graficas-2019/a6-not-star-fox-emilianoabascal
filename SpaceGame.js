@@ -33,7 +33,6 @@ function startGame(){
         highScore = score;
     }
         
-//    document.getElementById("highScore").innerHTML = "best score: " + highScore;
     gameMinutes = 0
     gameStarted = Date.now();
     actualTime = Date.now();
